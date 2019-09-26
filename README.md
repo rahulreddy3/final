@@ -1,3 +1,2 @@
 # final
-AJAY DOOUCHE
-Goblin AJAY
+from scratch
